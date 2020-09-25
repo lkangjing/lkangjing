@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**lkangjing/lkangjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**lkangjing/lkangjing** 
 
 - 🔭 I’m currently working on 郑大安全
 - 🌱 I’m currently learning Vue/React
