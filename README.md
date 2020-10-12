@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web Project
 - 🤔 I’m looking for help with js
 - 💬 Ask me about anything
-- 📫 How to reach me: lkangjingmsg@gmail.com
+- 📫 How to reach me: kangjingmsg@gmail.com
 - 😄 Pronouns: 派大星
 - ⚡ Fun fact: Chess/code
 
