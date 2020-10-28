@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: kangjingmsg@gmail.com
 - 😄 Pronouns: 派大星
-- ⚡ Fun fact: Chess/code
+- ⚡ Fun fact: Chess/code 33
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lkangjing)
