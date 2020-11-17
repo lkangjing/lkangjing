@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with js
 - 💬 Ask me about anything
 - 📫 How to reach me: kangjingmsg@gmail.com
-- 😄 Pronouns: 派大星 / 蓝萝bo萝 / 猎户座
+- 😄 Pronouns: 派大星 / 蓝萝bo卜 / 猎户座
 - ⚡ Fun fact: Chess/code 33
 
 
