@@ -2,7 +2,7 @@
 
 **lkangjing/刘康靖** 
 
-- 🔭 I’m currently working on 郑大安全
+- 🔭 I’m currently working on 学明
 - 🌱 I’m currently learning Vue/React
 - 👯 I’m looking to collaborate on Web Project
 - 🤔 I’m looking for help with js
